@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse Engineering of Kick Cycle</title>
+
+    <!-- Link External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Reverse Engineering of Kick Cycle</h1>
+    <p>Mini Project | Mechanical Engineering | 2025–26</p>
+</header>
+
+<section>
+    <h2>Project Overview</h2>
+    <p>
+        This project focuses on the reverse engineering of a commercially available
+        kick cycle to understand its design, material selection, assembly, and
+        structural performance. The study involves systematic disassembly,
+        dimensional measurement, CAD reconstruction using CATIA V5, and
+        finite element analysis (FEM) for structural validation.
+    </p>
+</section>
+
+<section>
+    <h2>Objectives</h2>
+    <ul>
+        <li>Understand the mechanical design and functionality of a kick cycle</li>
+        <li>Recreate accurate CAD models using reverse engineering techniques</li>
+        <li>Analyze stress, strain, and deformation using FEM</li>
+        <li>Evaluate structural safety under static and dynamic loads</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Methodology</h2>
+    <ul>
+        <li>Product selection and preliminary inspection</li>
+        <li>Complete disassembly of components</li>
+        <li>Dimensional measurement using precision instruments</li>
+        <li>3D modeling and drafting in CATIA V5</li>
+        <li>Finite Element Analysis (Static & Dynamic)</li>
+        <li>Result interpretation and validation</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Tools & Technologies</h2>
+    <ul>
+        <li>CATIA V5R20 – 3D Modeling & Drafting</li>
+        <li>ANSYS – Finite Element Analysis</li>
+        <li>Precision Measuring Instruments</li>
+        <li>Generative AI – Conceptual Sketches</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Key Results</h2>
+    <ul>
+        <li>Maximum static stress: <strong>3.12 MPa</strong></li>
+        <li>Maximum deformation: <strong>0.0046 mm</strong></li>
+        <li>High safety margin under normal operating conditions</li>
+        <li>Critical stress zones identified under impact loading</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Project Team</h2>
+    <table class="team-table">
+        <tr>
+            <th>Name</th>
+            <th>USN</th>
+        </tr>
+        <tr>
+            <td>Musebkhan Soudagar</td>
+            <td>02FE23BME020</td>
+        </tr>
+        <tr>
+            <td>Suraj M Yashwant</td>
+            <td>02FE23BME021</td>
+        </tr>
+        <tr>
+            <td>Shreyas M Sintre</td>
+            <td>02FE23BME026</td>
+        </tr>
+        <tr>
+            <td>Pruthviraj Korti</td>
+            <td>02FE24BME416</td>
+        </tr>
+        <tr>
+            <td>Harita Kamble</td>
+            <td>02FE24BME428</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Guides</h2>
+    <ul>
+        <li>Prof. Santosh Nandurkar</li>
+        <li>Prof. Sachidananda T. G.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Project Report</h2>
+    <p>
+        The complete mini project report includes detailed CAD models,
+        drafting sheets, FEM results, and analysis.
+    </p>
+   <a href="report.pdf" class="btn" download>
+        Download Project Report (PDF)
+    </a>
+</section>
+
+<footer>
+    <p>
+        Department of Mechanical Engineering<br>
+        KLE Technological University, Belagavi
+    </p>
+</footer>
+
+</body>
+</html>
